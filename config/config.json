@@ -1,5 +1,4 @@
 [
     {"module": "screenshot"},
-    {"module": "private_key"},
     {"module": "poorten"}
 ]
